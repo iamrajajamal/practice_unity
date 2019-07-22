@@ -514,8 +514,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb9ab133370119b439872ccebdd16bdf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawnCount: 1000
-  spawnSize: 25
+  spawnCount: 10
+  spawnSize: 15
   minionOffset: 1
   minion: {fileID: 5603008281550372193, guid: f91f8b8f2e0e8644ebce6193afbdc49b, type: 3}
 --- !u!4 &2079015740
